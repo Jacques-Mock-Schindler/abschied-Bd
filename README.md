@@ -1,1 +1,1 @@
-# abschied-Bd
+# Repository für den Abschiedstext für Bd
